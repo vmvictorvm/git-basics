@@ -4,3 +4,5 @@ Hello #TeamJohnny5!
 This is a change I made
 
 This is a change I made on Github.
+
+Hello from the cloned project
